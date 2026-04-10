@@ -24,3 +24,6 @@ reshaped the U.S. housing market. Built using Python, SQL, and Power BI.
 - `analyze.py` — generates analytical output CSVs
 - `load_sql.py` — loads data into SQLite database
 - `queries.py` — SQL queries answering key business questions
+
+## Dashboard Preview
+![Housing Market Dashboard](dashboard.png)
